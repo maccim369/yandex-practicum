@@ -10,24 +10,79 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Анализ спроса пассажиров">Анализ спроса пассажиров</a>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Исследование данных стриминг-сервиса">Исследование данных стриминг-сервиса</a>
 		</td>
 		<td>
-			Исследование влияния факторов на спрос на авиа-билеты статистическими и графическими методами.
+			Сравнение пользователей Яндекс.Музыка.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>
+			<code>Python</code>, <code>Pandas</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Анализ факторов успешности игр">Анализ факторов успешности игр</a>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Исследование надежности заемщиков">Исследование надежности заемщиков</a>
 		</td>
 		<td>
-			Нахождение факторов, влияющих на успешность компьютерных игр, и их графический анализ. Описание выводы.
+			Исследование факторов, влияющих на возврат/невозврат кредита в срок для создания модели кредитного скоринга.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scipy</code>
+			<code>Python</code>, <code>Pandas</code>, <code>pymystem3</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Исследование рынка недвижимости">Исследование рынка недвижимости</a>
+		</td>
+		<td>
+			Анализ рынка вторичной недвижимости в Санкт-Петерурге и Ленинградской области для создания модели по выявлению аномалий.
+		</td>
+		<td>
+			<code>Python</code>, <code>Pandas</code>, <code>Matplotlib</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Исследование тарифов мобильного оператора">Исследование тарифов мобильного оператора</a>
+		</td>
+		<td>
+			Анализ поведения клиентов мобильного оператора с целью определения более выгодного тарифа.
+		</td>
+		<td>
+			<code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Seaborn</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Анализ игровой индустрии">Анализ игровой индустрии</a>
+		</td>
+		<td>
+			Анализ рынка игр и платформ в Европе, Северной Америке и Японии для планирования рекламной кампании.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Seaborn</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Рекоментация тарифов мобильной связи">Рекоментация тарифов мобильной связи</a>
+		</td>
+		<td>
+			Создание модели машинного обучения, анализирующей поведение пользователей, с целью предложения более выгодного тарифа.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Sklearn</code>, <code>Matplotlib</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Прогнозирование оттока клиентов банка">Прогнозирование оттока клиентов банка</a>
+		</td>
+		<td>
+			Создание модели машинного обучения, прогнозирующей, уйдет клиент из банка в ближайшее время или нет.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Sklearn</code>, <code>Matplotlib</code>
 		</td>
 	</tr>
 	<tr>
@@ -38,18 +93,7 @@
 			Построить модель предсказания объёма запасов нефти в новых скважинах, показать возможную прибыль от нефтедобычи. Выбрать регион для разработки с вероятностью убытков менее 2,5%.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>Scikit-Learn</code>, <code>LinearRegression</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2%20%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5" alt="Классификация комментариев токсичные-положительные">Классификация комментариев токсичные-положительные</a>
-		</td>
-		<td>
-			Подготовить модель машинного обучения для интернет-магазина для классификации комметариев пользователей на положительные и негативные.
-		</td>
-		<td>
-			<code>Pandas</code>, <code>Re</code>, <code>Ntlk</code>, <code>TfidfVectorizer</code>, <code>Scikit-Learn</code>, <code>LogisticRegression</code>, <code>LightGBM</code>, <code>XGBoost</code>, <code>KNeighborsClassifier</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>Sklearn</code>, <code>Bootstrap</code>
 		</td>
 	</tr>
 	<tr>
@@ -60,7 +104,18 @@
 			Промышленному предприятию, специализирующемуся на добыче и обработке золота, требуется модель машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>LinearRegression</code>, <code>GradientBoostingRegressor</code>, <code>RandomForestRegressor</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Sklearn</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B8%D0%B7%20%D1%80%D1%83%D0%B4%D1%8B" alt="Защита персональных данных клиентов страховой компании">Защита персональных данных клиентов страховой компании</a>
+		</td>
+		<td>
+			Разработка такого метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию, и чтобы в результате преобразования качество моделей не ухудшилось.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Sklearn</code>, <code>Sweetviz</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +123,10 @@
 			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F" alt="Определение стоимости автомобиля">Определение стоимости автомобиля</a>
 		</td>
 		<td>
-			Сервис по продаже автомобилей с пробегом планирует привлечь новых клиентов. Ему требуется приложение для автоматизированной оценки рыночной стоимости автомобиля с использованием моделей машинного обучения.
+			Создание модели машинного обучения для определения стоимости подержанных автомобилей по их характеристикам.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>LightGBM</code>, <code>CatBoost</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Sklearn</code>, <code>LightGBM</code>, <code>CatBoost</code>
 		</td>
 	</tr>
 	<tr>
@@ -82,18 +137,40 @@
 			Компании по предоставлению услуг такси требуется сервис по предсказанию количества заказов на следующий час, чтобы привлекать больше водителей в периоды пиковой нагрузки. Требуется построить модель для такого предсказания.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Scikit-Learn</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>XGBoost</code>, <code>RandomForest</code>, <code>LinearRegression</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Sklearn</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>Statsmodels</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" alt="Прогнозирование оттока абонентов">Прогнозирование оттока абонентов</a>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2%20%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5" alt="Классификация комментариев">Классификация комментариев</a>
+		</td>
+		<td>
+			Подготовить модель машинного обучения для классификации комметариев пользователей на положительные и негативные.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Re</code>, <code>Sklearn</code>, <code>CatBoost</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" alt="Определение возраста по фотографии">Определение возраста по фотографии</a>
+		</td>
+		<td>
+			Построение модели, которая по фотографии определит приблизительный возраст человека.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Tensorflow</code>, <code>Keras</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" alt="Прогнозирование оттока клиентов телеком-оператора">Прогнозирование оттока клиентов телеком-оператора</a>
 		</td>
 		<td>
 			Телеком-провайдеру (доступ в интернет, телефония) требуется построить модель машинного обучения для предсказания оттока клиентов.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>RandomForestClassifier</code>, <code>KNeighborsClassifier</code>, <code>SVC</code>, <code>CatBoostClassifier</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Sklearn</code>, <code>CatBoostClassifier</code>
 		</td>
 	</tr>
 </table>
