@@ -88,7 +88,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/1a97ea6927f12618db17262
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8" alt="Выбор региона для нефтедобычи">Выбор региона для нефтедобычи</a>
+			<a href="https://github.com/maccim369/yandex-practicum/blob/3b121dbed0882a938594f9c582e296831e9b9992/08.%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8/ml_in_business.ipynb" alt="Выбор региона для нефтедобычи">Выбор региона для нефтедобычи</a>
 		</td>
 		<td>
 			Построить модель предсказания объёма запасов нефти в новых скважинах, показать возможную прибыль от нефтедобычи. Выбрать регион для разработки с вероятностью убытков менее 2,5%.
