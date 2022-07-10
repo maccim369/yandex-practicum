@@ -178,7 +178,8 @@ href="https://github.com/maccim369/yandex-practicum/blob/5c5576dcca120eddb45e8b2
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" alt="Прогнозирование оттока клиентов телеком оператора">Прогнозирование оттока клиентов телеком-оператора</a>
+			<a 
+href="https://github.com/maccim369/yandex-practicum/blob/d963ff20e3f8dc969a6102d7c659c6a64ddddd8b/15.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/telecom_churn_prediction_project.ipynb" alt="Прогнозирование оттока клиентов телеком оператора">Прогнозирование оттока клиентов телеком-оператора</a>
 		</td>
 		<td>
 			Телеком провайдеру требуется построить модель машинного обучения для предсказания оттока клиентов.
