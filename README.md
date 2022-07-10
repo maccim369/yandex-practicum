@@ -170,7 +170,7 @@
 			Телеком-провайдеру требуется построить модель машинного обучения для предсказания оттока клиентов.
 		</td>
 		<td>
-			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Sklearn</code>, <code>CatBoostClassifier</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Sklearn</code>, <code>CatBoost</code>
 		</td>
 	</tr>
 </table>
