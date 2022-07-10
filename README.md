@@ -99,7 +99,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/1a97ea6927f12618db17262
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B8%D0%B7%20%D1%80%D1%83%D0%B4%D1%8B" alt="Предсказание восстановления золота из руды">Предсказание восстановления золота из руды</a>
+			<a href="https://github.com/maccim369/yandex-practicum/blob/a20d9de7d907240bb8f9a0b8a9ffe4f4f9de6ca5/09.%20%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B8%D0%B7%20%D1%80%D1%83%D0%B4%D1%8B/ml_goldrecovery-project.ipynb" alt="Предсказание восстановления золота из руды">Предсказание восстановления золота из руды</a>
 		</td>
 		<td>
 			Промышленному предприятию, специализирующемуся на добыче и обработке золота, требуется модель машинного обучения для предсказания коэффициента восстановления золота из золотосодержащей руды.
