@@ -33,7 +33,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/1a97ea6927f12618db17262
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" alt="Исследование рынка недвижимости">Исследование рынка недвижимости</a>
+			<a href="https://github.com/maccim369/yandex-practicum/blob/76019caab201310cb876a20d219beced932dfc9b/03.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/real_estate_project.ipynb" alt="Исследование рынка недвижимости">Исследование рынка недвижимости</a>
 		</td>
 		<td>
 			Анализ рынка вторичной недвижимости в Санкт-Петерурге и Ленинградской области для создания модели по выявлению аномалий.
