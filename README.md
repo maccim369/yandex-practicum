@@ -55,7 +55,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/1a97ea6927f12618db17262
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Анализ игровой индустрии">Анализ игровой индустрии</a>
+			<a href="https://github.com/maccim369/yandex-practicum/blob/b985955b742835feb76b6c6c319ea82f122a0e35/05.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8/games_project.ipynb" alt="Анализ игровой индустрии">Анализ игровой индустрии</a>
 		</td>
 		<td>
 			Анализ рынка игр и платформ в Европе, Северной Америке и Японии для планирования рекламной кампании.
