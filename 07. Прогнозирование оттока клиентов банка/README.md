@@ -19,4 +19,4 @@
 * **_Matplotlib_**
 * **_Seaborn_**
 * **_Sklearn_**
-* **_SciPy_**
+* **_Scipy_**
