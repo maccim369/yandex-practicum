@@ -155,7 +155,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/6829bbdcf35fccb24ae13cc
 	<tr>
 		<td>
 			<a 
-href="hhttps://github.com/maccim369/yandex-practicum/blob/388d8f3b01914b88d6533e32dffa8d939478d02b/13.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/toxic_comments_project.ipynb" alt="Классификация комментариев">Классификация комментариев</a>
+href="https://github.com/maccim369/yandex-practicum/blob/388d8f3b01914b88d6533e32dffa8d939478d02b/13.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/toxic_comments_project.ipynb" alt="Классификация комментариев">Классификация комментариев</a>
 		</td>
 		<td>
 			Подготовить модель машинного обучения для классификации комметариев пользователей на положительные и негативные.
