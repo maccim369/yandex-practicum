@@ -121,7 +121,7 @@ href="https://github.com/maccim369/yandex-practicum/blob/1a97ea6927f12618db17262
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F" alt="Определение стоимости автомобиля">Определение стоимости автомобиля</a>
+			<a href="https://github.com/maccim369/yandex-practicum/blob/6e2d40f43cb3cfa58aa732aae017680927cc3fed/11.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F/car_price_project.ipynb" alt="Определение стоимости автомобиля">Определение стоимости автомобиля</a>
 		</td>
 		<td>
 			Создание модели машинного обучения для определения стоимости подержанных автомобилей по их характеристикам.
